@@ -1,6 +1,9 @@
 # websoket
 
-A new Flutter project.
+A new Flutter project
+its a price tracking app ,
+with charts that shows the price changes 
+and a controll panel to manage the channel with the server 
 
 ## Getting Started
 
