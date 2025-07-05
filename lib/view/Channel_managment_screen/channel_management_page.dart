@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:websoket/view/home_screen/price_track_controller.dart';
+import 'package:websoket/view/home_screen/Home_controller/price_track_controller.dart';
 
 class ChannelManagementPage extends StatelessWidget {
   final PriceTrackerController controller = Get.find();

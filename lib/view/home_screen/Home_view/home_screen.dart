@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:websoket/view/home_screen/price_track_controller.dart';
-import 'package:websoket/view/home_screen/price_view_page.dart';
-import 'package:websoket/view/home_screen/channel_management_page.dart';
+import 'package:websoket/view/home_screen/Home_controller/price_track_controller.dart';
+import 'package:websoket/view/home_screen/Home_view/price_view_page.dart';
+
+
+import '../../Channel_managment_screen/channel_management_page.dart';
 
 class HomeScreen extends StatefulWidget {
   @override
